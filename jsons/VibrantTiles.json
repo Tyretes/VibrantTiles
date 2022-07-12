@@ -1,0 +1,17 @@
+{
+        "ruleVariants": 
+    {
+
+// Terrains × Hill
+        "Plains+Hill": ["Plains", "HillPlains"]
+        "Desert+Hill": ["Desert", "HillDesert"]
+        "Snow+Hill": ["Snow", "HillSnow"]
+        "Tundra+Hill": ["Tundra", "HillTundra"]
+        "Grassland+Hill": ["Grassland", "HillGrassland"]
+// Terrains × Hill × Forest
+        "Tundra+Hill+Forest": ["Tundra", "HillTundra", "HillTundraForest"]
+        "Grassland+Hill+Forest": ["Grassland", "HillGrassland", "HillGrasslandForest"]
+        "Plains+Hill+Forest": ["Plains", "HillPlains", "HillPlainsForest"]
+
+    }
+}
