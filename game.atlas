@@ -1,0 +1,271 @@
+game.png
+size: 256, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: false
+TileSets/FantasyHex/Tiles/Grassland
+  rotate: false
+  xy: 0, 0
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Plains
+  rotate: false
+  xy: 32, 0
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Desert
+  rotate: false
+  xy: 64, 0
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Snow
+  rotate: false
+  xy: 96, 0
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tundra
+  rotate: false
+  xy: 128, 0
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lakes
+  rotate: false
+  xy: 160, 0
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coast
+  rotate: false
+  xy: 192, 0
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Ocean
+  rotate: false
+  xy: 224, 0
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Forest
+  rotate: false
+  xy: 0, 30
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Forest2
+  rotate: false
+  xy: 32, 30
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Forest3
+  rotate: false
+  xy: 64, 30
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/GrasslandForest
+  rotate: false
+  xy: 96, 30
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/GrasslandForest2
+  rotate: false
+  xy: 128, 30
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/GrasslandForest3
+  rotate: false
+  xy: 160, 30
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/GrasslandForest4
+  rotate: false
+  xy: 192, 30
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/PlainsForest
+  rotate: false
+  xy: 224, 30
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/PlainsForest2
+  rotate: false
+  xy: 0, 72
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/PlainsForest3
+  rotate: false
+  xy: 32, 72
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/PlainsForest4
+  rotate: false
+  xy: 64, 72
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/TundraForest
+  rotate: false
+  xy: 96, 72
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/TundraForest2
+  rotate: false
+  xy: 128, 72
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/TundraForest3
+  rotate: false
+  xy: 160, 72
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/GrasslandJungle
+  rotate: false
+  xy: 192, 72
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/GrasslandJungle2
+  rotate: false
+  xy: 224, 72
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/PlainsJungle
+  rotate: false
+  xy: 0, 114
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/PlainsJungle2
+  rotate: false
+  xy: 32, 114
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Marsh
+  rotate: false
+  xy: 64, 114
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Jungle
+  rotate: false
+  xy: 128, 114
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Jungle2
+  rotate: false
+  xy: 96, 114
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Flood plains
+  rotate: false
+  xy: 160, 114
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland+Hill+Forest
+  rotate: false
+  xy: 0, 156
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Plains+Hill+Forest
+  rotate: false
+  xy: 32, 156
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tundra+Hill+Forest
+  rotate: false
+  xy: 64, 156
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland+Hill
+  rotate: false
+  xy: 96, 156
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Plains+Hill
+  rotate: false
+  xy: 128, 156
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Desert+Hill
+  rotate: false
+  xy: 160, 156
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Snow+Hill
+  rotate: false
+  xy: 192, 156
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Tundra+Hill
+  rotate: false
+  xy: 224, 156
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
